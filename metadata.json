@@ -1,0 +1,6 @@
+{
+  "name": "NIRMAN — 3D Residential Architecture Tour",
+  "description": "An interactive 3D architectural visualization and residential tour of NIRMAN, a ten-storey contemporary Indian apartment building with 1 BHK, 2 BHK, and 3 BHK homes, rooftop swimming pool, and surrounding colony.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
